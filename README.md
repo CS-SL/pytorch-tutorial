@@ -30,8 +30,8 @@ This repository provides tutorial code for deep learning researchers to learn [P
 
 #### 4. Utilities
 * [TensorBoard in PyTorch](https://github.com/yunjey/pytorch-tutorial/tree/master/tutorials/04-utils/tensorboard)
-
-
+* [Pytorch cookbook](https://zhuanlan.zhihu.com/p/104019160)
+* [Pytorch style guidance](https://github.com/IgorSusmelj/pytorch-styleguide)
 
 <br/>
 
